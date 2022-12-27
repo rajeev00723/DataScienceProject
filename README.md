@@ -38,3 +38,11 @@ Data exploration and analysis is typically an iterative process, in which the da
     Visualize data to determine relationships between variables, and in the case of a machine learning project, identify features that are potentially predictive of the label.
     Revise the hypothesis and repeat the process.
 
+Visualize data
+
+Data scientists visualize data to understand it better. This can mean looking at the raw data, summary measures such as averages, or graphing the data. Graphs are a powerful means of viewing data, as we can discern moderately complex patterns quickly without needing to define mathematical summary measures.
+
+Representing data visually
+Representing data visually typically means graphing it. This is done to provide a fast qualitative assessment of our data, which can be useful for understanding results, finding outlier values, understanding how numbers are distributed, and so on.
+
+While sometimes we know ahead of time what kind of graph will be most useful, other times we use graphs in an exploratory way. To understand the power of data visualization, consider the data below: the location (x,y) of a self-driving car. In its raw form, it's hard to see any real patterns. The mean or average, tells us that its path was centred around x=0.2 and y=0.3, and the range of numbers appears to be between about -2 and 2.
